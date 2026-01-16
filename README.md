@@ -1,4 +1,4 @@
-# GEO-AI-SEO-Bot: LLM & AEO Manipulation Matrix 🧠
+# GEO AI SEO Bot: LLM & AEO Manipulation Matrix 🧠
 
 ---
 
